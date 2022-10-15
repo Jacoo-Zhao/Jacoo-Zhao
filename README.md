@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jacoo-Zhao
-- 👀 I’m interested in Computer vision and theoretical deep learning
+- 👀 I’m interested in **computer vision** and **deep learning theories**
 - 🌱 I’m currently an exchange student in EPFL [CVL](https://www.epfl.ch/labs/cvlab/). form [Tongji University](https://www.tongji.edu.cn/)
 - 💞️ I like looking hiking and playing sports in the spare time
 - 📫 How to reach me: ziyi.zhao@epfl.ch or Zhaozi1@tongji.edu.cn.
