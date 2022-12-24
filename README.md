@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jacoo-Zhao  |  Ziyi Zhao   |  赵子祎
+- 👋 Hi, I’m @ Ziyi Zhao | Jacoo |  赵子祎
 - 👀 I’m interested in **computer vision** and **deep learning theories**
 - 🌱 I’m currently an exchange student in EPFL [CVL](https://www.epfl.ch/labs/cvlab/) and I am form [Tongji University](https://www.tongji.edu.cn/)
 - 💞️ I like [hiking](https://www.google.com/maps/d/edit?mid=1PYZJQ7GRWiAlec0Dga-B19Mlp9S-Np9R&usp=sharing) and playing sports in the spare time
