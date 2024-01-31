@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Ziyi Zhao | C. Zhao |  赵子祎
 - 📖 I started my Ph.D. studies at the University of Technology Sydney (UTS) in December 2023.
-- 👀 I’m interested in **human motion generation** and **Brain-Computer Interface**
+- 👀 I’m interested in **human motion generation** and **EEG Signal Representation Decoding**
 - 🌱 In June 2023, I obtained my master's degree at [Tongji U](https://www.tongji.edu.cn/) in Shanghai. Before this, I was an exchange student at EPFL [CVL](https://www.epfl.ch/labs/cvlab/).
 - 💞️ I like [hiking](https://www.google.com/maps/d/edit?mid=1PYZJQ7GRWiAlec0Dga-B19Mlp9S-Np9R&usp=sharing) and playing sports in the spare time
 - 📫 How to reach me: zhaozyzyq@gmail.com
