@@ -4,7 +4,7 @@
 - 🌱 Obtained master's degree from [Tongji U](https://www.tongji.edu.cn/) in June 2023.
 - 😇 Was an exchange student at EPFL [CVL](https://www.epfl.ch/labs/cvlab/) from Febuary 2022 to December 2022.
 - 💞️ Like [hiking](https://www.google.com/maps/d/edit?mid=1PYZJQ7GRWiAlec0Dga-B19Mlp9S-Np9R&usp=sharing) and playing sports in the spare time
-- 📫 How to reach me: zhaozyzyq@gmail.com
+- 📫 How to reach me: ziyi.zhao-2@student.uts.edu.au or zhaozyzyq@gmail.com
 
 <!---
 Jacoo-Zhao/Jacoo-Zhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
