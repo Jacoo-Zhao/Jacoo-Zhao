@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Ziyi Zhao | C. Zhao | 赵子祎
-- 👀 My research interest lies in **human motion generation** and **Brain-Computer Interaction (BCI)**
-- 📖 Doing a Ph.D. at the University of Technology Sydney (UTS) from December 2023.
+- 👀 Research interests: **Human-Centered AI (HAI)**, **Brain-Computer Interaction (BCI)** and **Motion Generation**.
+- 📖 Now: Doing a Ph.D. at the University of Technology Sydney (UTS).
 - 🌱 Obtained master's degree from [Tongji U](https://www.tongji.edu.cn/) in June 2023.
-- 😇 Was an exchange student at EPFL [CVL](https://www.epfl.ch/labs/cvlab/) from Febuary 2022 to December 2022.
-- 💞️ Like [hiking](https://www.google.com/maps/d/edit?mid=1PYZJQ7GRWiAlec0Dga-B19Mlp9S-Np9R&usp=sharing) and playing sports in the spare time
-- 📫 How to reach me: ziyi.zhao-2@student.uts.edu.au or zhaozyzyq@gmail.com
+- 😇 Was at EPFL [CVL](https://www.epfl.ch/labs/cvlab/) in 2022.
+- 📫 How to reach me: ziyi.zhao-1@uts.edu.au or zhaozyzyq@gmail.com
 
 <!---
 Jacoo-Zhao/Jacoo-Zhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
