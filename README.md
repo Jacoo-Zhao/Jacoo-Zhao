@@ -5,6 +5,10 @@
 - 😇 Was at EPFL [CVL](https://www.epfl.ch/labs/cvlab/) in 2022.
 - 📫 How to reach me: ziyi.zhao-1@uts.edu.au or zhaozyzyq@gmail.com
 
+Cosplay: 
+- StartUp Founder
+- Tutor (Teaching Assistant)
+
 <!---
 Jacoo-Zhao/Jacoo-Zhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
