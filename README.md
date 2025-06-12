@@ -5,7 +5,7 @@
 - 😇 Was at EPFL [CVL](https://www.epfl.ch/labs/cvlab/) in 2022.
 - 📫 How to reach me: ziyi.zhao-1@uts.edu.au or zhaozyzyq@gmail.com
 
-Cosplay: 
+Cosplay in the World Game:
 - StartUp Founder
 - Tutor (Teaching Assistant)
 
